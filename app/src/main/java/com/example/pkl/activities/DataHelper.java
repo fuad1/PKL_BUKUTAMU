@@ -1,4 +1,4 @@
-package com.example.pkl;
+package com.example.pkl.activities;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;

@@ -1,8 +1,10 @@
-package com.example.pkl;
+package com.example.pkl.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.pkl.R;
 
 public class ListTamu extends AppCompatActivity {
 

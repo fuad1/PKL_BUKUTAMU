@@ -97,6 +97,7 @@
     <Button
         android:id="@+id/button"
         android:layout_width="wrap_content"
+        android:onClick="Pindah2"
         android:layout_height="wrap_content"
         android:layout_marginTop="104dp"
         android:text="SIMPAN"
@@ -107,6 +108,7 @@
 
     <Button
         android:id="@+id/button2"
+        android:onClick="Pindah"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="132dp"
